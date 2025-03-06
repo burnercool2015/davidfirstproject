@@ -9,13 +9,13 @@
 <b>Currently working on it<b>
 
 <h2>I am currently learning...</h2>
-<b> Management Information Systems in school</b>
-<b>Java coding</b>
+- <b> Management Information Systems in school</b>
+  - <b>Java coding</b>
 
 
-<h2> I am looking for help with...<h2>
-<b> Learning more Java coding<b>
-<b> Building my own projects<b>
+<h2> I am looking for help with...</h2>
+- <b> Learning more Java coding</b>
+    - <b> Building my own projects</b>
 
 
 
